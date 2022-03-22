@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'NimblyERP'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A49435CFCDA547879F9F2B449084BE30 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52C91F9FC9C441BCAF93D43534234AE1 }}
           package: .
